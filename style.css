@@ -87,6 +87,14 @@ i{
     top: 80px;
 }
 
+.divider-2{
+    width: 22rem;
+    height: .1rem;
+    background: #4444441e;
+    position: absolute;
+    top: 260px;
+}
+
 .profile img{
     width: 50px;
     border-radius: 50%;
